@@ -9,7 +9,7 @@
 </div>
 
 ###
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizacoelh&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizacoelh&?count_private=true&layout=compact)
   ## Minhas redes sociais
  
 <div> 
