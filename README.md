@@ -1,6 +1,6 @@
-## Oiii eu sou a luiza coelho, sou estudante de programação e tecnologia!
+## Oiii! Eu sou a luiza coelho, estudante de programação e tecnologia!
 
-## Tecnologias que eu uso no momento!
+### Tecnologias que eu uso no momento!
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -9,7 +9,7 @@
 </div>
 
 ###
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizacoelh&layout=compact)
   ## Minhas redes sociais
  
 <div> 
