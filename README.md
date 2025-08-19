@@ -13,15 +13,16 @@
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizacoelh&show_icons=true&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacoelh&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizacoelh&show_icons=true&theme=ocean_dark&locale=pt-BR"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacoelh&layout=compact&theme=ocean_dark&locale=pt-BR"/>
 </p>
+
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=luizacoelh&theme=dracula"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=luizacoelh&theme=dracula&locale=pt-BR"/>
 </p>
 
 
@@ -42,3 +43,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luizacoelh&label=Profile%20views&color=ff69b4&style=flat"/>
 </p>
+
+
