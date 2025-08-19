@@ -14,7 +14,7 @@
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizacoelh&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacoelh&layout=compact&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacoelh&layout=compact&theme=dracula"/>
 </p>
 
 ---
