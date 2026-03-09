@@ -40,8 +40,6 @@
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luizacoelh&label=Profile%20views&color=ff69b4&style=flat"/>
-</p>
+
 
 
