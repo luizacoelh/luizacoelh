@@ -40,7 +40,7 @@ $ cat about.txt
 
 ---
 
-### 🗄️ [db-portfolio *(em construção)*](https://github.com/luizacoelh/SQL-portfolio)
+### 🗄️ [db-portfolio ](https://github.com/luizacoelh/SQL-portfolio)
 > Projeto pessoal explorando modelagem relacional, queries avançadas e boas práticas com SQL.  
 > Inclui casos de uso reais com análises, views e stored procedures.
 
