@@ -67,13 +67,14 @@ Modelagem relacional, queries avançadas e boas práticas com SQL aplicadas em c
 
 
 ## Estatísticas
-
+ 
 <p align="center">
   <img height="175em" src="https://github-readme-stats-one-steel-29.vercel.app/api?username=luizacoelh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=c9d1d9&hide=contribs"/>
   <img height="175em" src="https://github-readme-stats-one-steel-29.vercel.app/api/top-langs/?username=luizacoelh&layout=compact&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=c9d1d9&langs_count=6"/>
 </p>
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizacoelh&bg_color=0d1117&color=378ADD&line=378ADD&point=85B7EB&area=true&area_color=378ADD&hide_border=true"/>
+</p>
 ---
 
 ## Contato
