@@ -14,53 +14,49 @@ $ cat about.txt
 
 ---
 
-## Ferramentas
+Ferramentas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+Testes & Automação
 
+<p align="left"> <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/> </p>
+
+Banco de Dados
+
+<p align="left"> <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/> </p>
+
+Desenvolvimento Web
+
+<p align="left"> <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> </p>
+
+Ferramentas
+
+<p align="left"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </p>
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🤖 [test-automation](https://github.com/luizacoelh/test-automation)
-> Automação de testes E2E cobrindo API REST (Petstore) e interface Web (SauceDemo).  
-> Pipeline de CI/CD com GitHub Actions e relatórios dinâmicos via pytest-html.
-
+## Projetos
+ 
+### [test-automation](https://github.com/luizacoelh/test-automation)
+Automação de testes E2E cobrindo API REST e interface Web. Pipeline CI/CD com GitHub Actions e relatórios via pytest-html.
+ 
 `Python` `Pytest` `Selenium` `GitHub Actions` `CI/CD` `REST API`
-
+ 
 ---
-
-### 🗄️ [db-portfolio ](https://github.com/luizacoelh/SQL-portfolio)
-> Projeto pessoal explorando modelagem relacional, queries avançadas e boas práticas com SQL.  
-> Inclui casos de uso reais com análises, views e stored procedures.
-
+ 
+### [SQL-portfolio](https://github.com/luizacoelh/SQL-portfolio)
+Modelagem relacional, queries avançadas e boas práticas com SQL aplicadas em casos de uso reais.
+ 
 `SQL` `PostgreSQL` `Python`
 
----
+ ---
 
 
-## 📊 Estatísticas
-
+## Estatísticas
+ 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizacoelh&show_icons=true&theme=dracula&locale=pt-BR&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=85B7EB"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacoelh&layout=compact&theme=dracula&locale=pt-BR&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=85B7EB"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=luizacoelh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=c9d1d9&hide=contribs"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacoelh&layout=compact&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=c9d1d9&langs_count=6"/>
 </p>
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=luizacoelh&theme=dracula&hide_border=true&background=0d1117&ring=378ADD&fire=378ADD&currStreakLabel=85B7EB"/>
-</p>
 
 ---
 
