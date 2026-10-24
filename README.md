@@ -1,102 +1,60 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:378ADD&height=200&text=Luiza%20Coelho&fontColor=378ADD&fontSize=42&fontAlign=50&animation=fadeIn&fontAlignY=38&desc=QA%20%7C%20Test%20Automation%20%7C%20Software%20Quality&descAlignY=58&descSize=16&descColor=85B7EB)
-
-</div>
-
-```
-$ whoami
-> Luiza Coelho — QA Engineer in training
-$ cat about.txt
-> Estudante de Engenharia de Software no iCEV 
-> 📍 Teresina, PI  |  🎓 iCEV  
-```
-
- 
-**Testes & Automação**
- 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Luiza Coelho — Software Development & Quality" />
 </p>
 
-**Banco de Dados**
- 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
+<p align="center">
+  Software Engineering student @ iCEV<br/>
+  Full-stack development · Test automation · Databases<br/>
+  Teresina, PI · Brazil
 </p>
 
-**Desenvolvimento Web**
- 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+## Tecnologias
+
+**Qualidade e testes**
+
+<img src="https://skillicons.dev/icons?i=python,selenium,postman,githubactions&theme=dark" alt="Python, Selenium, Postman e GitHub Actions" />
+
+Python · Pytest · Selenium · Postman · GitHub Actions
+
+**Desenvolvimento**
+
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,html,css,java&theme=dark" alt="TypeScript, JavaScript, Next.js, React, HTML, CSS e Java" />
+
+**Dados**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma,supabase&theme=dark" alt="PostgreSQL, MySQL, SQLite, Prisma e Supabase" />
 
 **Ferramentas**
- 
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
 
----
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode&theme=dark" alt="Docker, Git, GitHub, Vercel e VS Code" />
 
 ## Projetos
- 
-### [test-automation](https://github.com/luizacoelh/test-automation)
-Automação de testes E2E cobrindo API REST e interface Web. Pipeline CI/CD com GitHub Actions e relatórios via pytest-html.
- 
-`Python` `Pytest` `Selenium` `GitHub Actions` `CI/CD` `REST API`
- 
----
- 
-### [SQL-portfolio](https://github.com/luizacoelh/SQL-portfolio)
-Modelagem relacional, queries avançadas e boas práticas com SQL aplicadas em casos de uso reais.
- 
-`SQL` `PostgreSQL` `Python`
 
- ---
+**[VagaSync](https://github.com/luizacoelh/vagasync)** — Aplicação full stack para acompanhar candidaturas, analisar vagas com IA e identificar lacunas de habilidades.
 
+**[Orbis](https://github.com/luizacoelh/Orbis)** — Organização de tarefas, metas e notas em estrutura de grafo, com Next.js, TypeScript e PostgreSQL.
+
+**[test-automation](https://github.com/luizacoelh/test-automation)** — Testes de API REST e interface web, Page Object Model e execução automatizada no GitHub Actions.
+
+**[SQL Portfolio](https://github.com/luizacoelh/SQL-portfolio)** — Análise de dados do Spotify com 114 mil registros, modelagem relacional e consultas com CTEs e window functions.
 
 ## Estatísticas
- 
+
 <p align="center">
-  <img height="175em" src="https://github-readme-stats-one-steel-29.vercel.app/api?username=luizacoelh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=c9d1d9&hide=contribs"/>
-  <img height="175em" src="https://github-readme-stats-one-steel-29.vercel.app/api/top-langs/?username=luizacoelh&layout=compact&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=c9d1d9&langs_count=6"/>
+  <img height="175" src="https://github-readme-stats-one-steel-29.vercel.app/api?username=luizacoelh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=378ADD&text_color=c9d1d9&hide=contribs" alt="Estatísticas do GitHub" />
+  <img height="175" src="https://github-readme-stats-one-steel-29.vercel.app/api/top-langs/?username=luizacoelh&layout=compact&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=c9d1d9&langs_count=6" alt="Linguagens dos repositórios" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizacoelh&bg_color=0d1117&color=378ADD&line=378ADD&point=85B7EB&area=true&area_color=378ADD&hide_border=true"/>
-</p>
----
+
+<!-- Gráfico de atividade: aguardando configuração do gerador via GitHub Actions. -->
 
 ## Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luizacoelh" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/luiza.coelh/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:luizacoelho165@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/luizacoelh"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:luizacoelho165@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" alt="E-mail" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luizacoelh&label=visitors&color=378ADD&style=flat"/>
+  <img src="./assets/footer.svg" width="100%" alt="Ondas azuis decorativas" />
 </p>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:0d1117&height=120&section=footer)
-
-</div>
