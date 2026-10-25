@@ -45,7 +45,11 @@ Python · Pytest · Selenium · Postman · GitHub Actions
   <img height="175" src="https://github-readme-stats-one-steel-29.vercel.app/api/top-langs/?username=luizacoelh&layout=compact&hide_border=true&bg_color=0d1117&title_color=378ADD&text_color=c9d1d9&langs_count=6" alt="Linguagens dos repositórios" />
 </p>
 
-<!-- Gráfico de atividade: aguardando configuração do gerador via GitHub Actions. -->
+<p align="center">
+  <img src="./assets/activity.svg"
+       width="100%"
+       alt="Contribution activity over the last 31 days" />
+</p>
 
 ## Contato
 
